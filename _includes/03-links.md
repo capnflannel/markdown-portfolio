@@ -1,1 +1,1 @@
-[GitHub](https://github.com/capnflannel)
+[CapnFlannel's GitHub](https://github.com/capnflannel)
